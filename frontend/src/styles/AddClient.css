@@ -1,0 +1,13 @@
+.add-client-container {
+    padding: 20px;
+  }
+  
+  .add-client-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .add-client-container textarea {
+    min-height: 100px;
+  }
